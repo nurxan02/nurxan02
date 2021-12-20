@@ -9,13 +9,23 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ASP.NET and JS.**
+- 🌱 I’m currently learning **ASP.NET and JS**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/nurxan02?tab=repositories)**
 
 - 📫 How to reach me **nmasimzade@gmail.com**
+  
+- 📖 University : **AACU (Azerbaijan Architecture and Construction University)**
+  
+- 👨‍💻 Specialty : **Processes Automation Engineer**
+  
+- 🎨 Graphic & 3D & UI/UX **Designer**
+  
+- 📱 Study at [**Code Academy**](http://code.edu.az/)
+  
+- 🛡️ Tripoling App ***Founder***
 
 ## 🚀 Languages and Tools:
 
