@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.instagram.com/nurxan02/?igshid=1ugpxpzj9lvza">
-    <img src="https://imgyukle.com/f/2021/12/20/kdjecb.jpg" alt="Logo" width="500" height="auto">
+    <img src="https://lh3.googleusercontent.com/fife/AAWUweWQl76Q8J4wA4i1oeIKtNIc9GiI-kbxDgtRMP0rpGE29yufqJTC-3wpx5YqWEbxlwXrlpNK9WNYRIOFilZmd5gEAI_YkIFadj4WLTt44CmeHBMwFJAMPaUJ8v56GEBB-AA0DuNTgsW0VjMsGLOe2L-wVs_LUntrOT3wAiZdzq0urYKkE9CJyA3Jsee7WPO0zWzerszYXABUoI18rOiwrQGgh9XbIsYyC9Vl6F0sJnsztIskO31nky-5el5HHYQYhGHAKTvwh8hQpoFAniemL3n7c6MuPbkavWj2T3Os62xOvEHprimRonZ_zcJuyio9iDqwPZ5SCJrYMm2c5z8i34ZoMS_RdBKuOTbX144lhBDBsRDpPhiywoV5JFV2F3aP-_du1pBEeDOSTH0cM40fK6ciE7ZCQErLzqrRMjDSkvOKvpZ2u6TN_kgr1pcz7EcYRG388kN37AeHwMAOj157F0JOWN9O68jePOVvZJbe6pADvxOCeOlhspnnAvr6UTVSd1_b4RPXH8dSleGAhMP4YQoCBzod0l1cnvZQPVEmurp929zuHB_yIksWOUGgHsr3AAW8cXXtyGMQF0oET5hFspKfPZyajze42IxZtHrfvaCVNtZTDfD5grhkXbgfZIKqa_-n1OR2QtMWlCoQT9bkd2B6gzvcnjdNVF7am90iF-jZsbIs7fIt7xO1lSuXEXNSUWu7mAzOpGYP4AmfwrtNOQoJ__QvOb9OlpQ=w1920-h961-ft" alt="Logo" width="500" height="auto">
   </a>
 
 
