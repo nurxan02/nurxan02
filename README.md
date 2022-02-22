@@ -35,7 +35,7 @@
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
     <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
     <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.reactjs.org" target="_blank"> <img src="https://img.icons8.com/office/16/000000/react.png"/> </a>  
+    <a href="https://www.reactjs.org" target="_blank"> <img src="https://img.icons8.com/office//000000/react.png"/> </a>  
     <a href="https://sass-lang.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/sass-avatar.png"/> </a>
     <a href="https://azure.microsoft.com/en-us/" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/azure-1.png"/> </a>
     <a style="padding-right:8px;" href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-sharp-logo.png"/> </a> 
