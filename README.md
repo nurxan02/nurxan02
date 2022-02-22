@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ASP.NET and JS**
+- 🌱 I’m currently learning **ASP.NET, API, Js, React**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
