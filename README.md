@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **ASP.NET, API, Js, React**
+- 🌱 I’m currently learning **Js, React, Next.Js, Flutter**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
@@ -79,7 +79,6 @@
   
 
 <a href = "https://www.linkedin.com/in/nurxan-masimzade-b210261a3"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/thenurkhan"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/nurxan02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "https://www.facebook.com/Mr.Nurkhan"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href = "mailto:nmasimzade@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
