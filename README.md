@@ -1,10 +1,10 @@
 <div align="center">
-  <a href="https://www.instagram.com/nurxan02/?igshid=1ugpxpzj9lvza">
-    <img src="https://lh3.googleusercontent.com/fife/AAWUweXt5KozBVGt6yeWcT74e5pPti-gAD-UTdo6ODDrRMeAFqFjOhmgrXyEeiIR-fMx5J2Q6mBssWLjyV4GPt0_b0nG_Y8DQRSZXi9RUsXc8zKKAqcHIIldLEJtHq1CQXpHkFa--_kdxO6_wj8eDV-6I5qGxL52sj-O3yy8eCNtGmmZQkJKzYYOqqkMX1ScBZFK5gm8XhciHO58B-QvubNbI80u7Y-ENfTfGm6X_HsM8mCGqRAzEKf7ddzkl4uMLjI_SzsH7VvvJB6-0VVzO5QrthdQqDIHbQbhUd9xFxqcasrJ-thlra0DVsF6iUkmFTgoPAGzMjxmkXYnnT_FeC_-k2OUh-vmSsHl6Ea6wIA9K9mJBU7h3kSogDRPJqRmYS_FdExu-mP-RmMtaOctqth6B8tODONR9MYt_P4irQ_RzoVLJsNhW2bDjj7f2w7nc_MWQO7qNMSE1fAOBh37jlXDykvZi8U5-6S5SjSoN-vn3-dInF_w4AG_ygva3Ga64yHMkFgw8deLcapDT3yxyuTtw7i1IqF2qMibRO5UP8I5a1PiHODTwyZH-ItS2ZwEBnqCQpWldKJbdNmkbkSssXx077o0ze9qXG7JTVo2dgc3aqv-3azBytxBJp2MAJ1Dip8q8a-A0rUjwWBFRdBwRySzV4WufLxed6Qd3wxvTA3F4u4cU8TfGsp2U4XDEf5mv6Zjz2BWS92mz3G5HZrfpadWhyCDhAewuPGwV4A=w1920-h661-ft" alt="Logo" width="500" height="auto">
+  <a href="https://bio.link/nurxanmasimzade">
+    <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto">
   </a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nurkhan Masimzade</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="37px">, I'm Nurkhan Masimzade</h1>
 <div align="start">
 
 ## 🙋‍♂️ About Me
