@@ -9,7 +9,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Js, React, Next.Js, Flutter**
+- 🌱 I’m currently learning **Js, React, Next.Js**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
