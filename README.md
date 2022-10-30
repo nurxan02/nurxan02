@@ -1,10 +1,13 @@
-<div align="center">
+<div align="center" >
   <a href="https://bio.link/nurxanmasimzade">
-    <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto">
+    <?--- <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto"> 
+	<a href="https://github.com/nurxan02/">
+		<img src="https://github.com/nurxan02/LandingPageGif/blob/main/readme.svg" width="800" height="400" alt="Click to see the source">
+	</a>
   </a>
 
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" height="37px">, I'm Nurkhan Masimzade</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="37px" height="37px">, I'm Nurkhan Masimzade</h1>
 <div align="start">
 
 ## 🙋‍♂️ About Me
