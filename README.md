@@ -52,8 +52,8 @@
   </br>
   
   <p align="center">
-    <a href="">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Nurkhan Masimzade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nurxan02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/nurxan02">
+        <img title="This is Streak the Nurkhan Masimzade" alt="Nurkhan Masimzade's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=nurxan02&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
