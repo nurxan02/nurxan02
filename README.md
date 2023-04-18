@@ -1,7 +1,7 @@
 <div align="center" >
   <a href="https://bio.link/nurxanmasimzade">
     <?--- <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto"> 
-	<a href="https://nurxanmasimzade.netlify.app/">
+	<a href="https://nurxan02.github.io/MyPortfolio/">
 		<img src="https://user-images.githubusercontent.com/90649844/219488378-9afbf30c-dd14-4218-b314-895c14ded012.png" width="100%" height="auto" alt="Click to see the source">
 	</a>
   </a>
