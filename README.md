@@ -1,32 +1,38 @@
 <div align="center" >
   <a href="https://bio.link/nurxanmasimzade">
-    <?--- <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto"> 
-	<a href="https://nurxan02.github.io/MyPortfolio/">
-		<img src="https://user-images.githubusercontent.com/90649844/219488378-9afbf30c-dd14-4218-b314-895c14ded012.png" width="100%" height="auto" alt="Click to see the source">
-	</a>
+     <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto">
   </a>
 
 <div align="start">
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Js, React, Next.Js**
+- 🌱 I’m currently learning **Flutter and Mobile Development for Hobby**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/nurxan02?tab=repositories)**
 
-- 📫 How to reach me **nmasimzade@gmail.com**
+- 📫 How to reach me **nmasimzade@outlook.com**
+ 
+- 👔 My Linkedin Account : **[Here](https://www.linkedin.com/in/nurxanmasimzade/)**
+
+- 📖 Master : **WSB Akademia - Master of Computer Science**
+ 
+- 📖 Bachelor  : **AACU (Azerbaijan Architecture and Construction University) - Processes Automation Engineering**
+
+- 📖 Study at [**Code Academy**](http://code.edu.az/)
   
-- 📖 University : **AACU (Azerbaijan Architecture and Construction University)**
-  
-- 👨‍💻 Specialty : **Processes Automation Engineer**
+- 👨‍💻 Specialty : **Software Development**
   
 - 🎨 Graphic & 3D & UI/UX **Designer**
   
-- 📱 Study at [**Code Academy**](http://code.edu.az/)
-  
-- 🛡️ Tripoling App ***Founder***
+- 🛡️ Tripoling App (StartUp) ***Founder***
+
+<i>I'm currently pursuing **a master's degree in Computer Science in Poland**, deepening my knowledge in the field. Additionally, I work as a **full-stack programming instructor** and an experienced **front-end developer**.
+At Baku IT Academy, I've taught HTML, CSS, JavaScript, C#, ASP.Net Core, and conducted practical sessions with real projects. I also have experience working full-time, collaborating on front-end development at R.I.S.K. Company. My tasks included updating web designs to align with older systems and practicing Agile methodologies. I've independently developed a full-stack project, **[Milana Boutique](https://github.com/nurxan02/MilanaBoutique)**, a clothing sales site. Alongside this, I've contributed to various projects, constantly learning and evolving through these experiences.
+I'm actively seeking **full-time positions** where I can leverage my skills and experiences in programming and front-end development. You can explore my portfolio here, check out my work on **Github, and read my articles on [Medium](https://medium.com/@nurxan02)**.
+I thrive on engaging in new projects and continuously advancing my knowledge. I'm always open to collaboration and new opportunities!</i>
 
 ## 🚀 Languages and Tools:
 
@@ -70,12 +76,5 @@
 <br/>
 <br/>
 <div align="start">
-
-## ✒ **Connect with me:**
-<a href = "https://www.linkedin.com/in/nurxan-masimzade-b210261a3"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/nurxan02/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-<a href = "https://www.facebook.com/Mr.Nurkhan"><img src="https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
-<a href = "mailto:nmasimzade@gmail.com"><img src="https://img.icons8.com/fluent/48/000000/gmail-new.png"/></a>
-
 
 
