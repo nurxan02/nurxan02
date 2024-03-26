@@ -7,8 +7,6 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Flutter and Mobile Development for Hobby**
-
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
 - 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/nurxan02?tab=repositories)**
@@ -25,7 +23,7 @@
   
 - 👨‍💻 Specialty : **Software Development**
   
-- 🎨 Graphic & 3D & UI/UX **Designer**
+- 🎨 Hobby: Graphic, 3D & UI/UX **Design**
   
 - 🛡️ Tripoling App (StartUp) ***Founder***
 
