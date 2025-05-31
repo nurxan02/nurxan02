@@ -1,5 +1,5 @@
 <div align="center" >
-  <a href="https://bio.link/nurxanmasimzade">
+  <a href="https://nurkhanmasimzada.site/social">
      <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto">
   </a>
 
