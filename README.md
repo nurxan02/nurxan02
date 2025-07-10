@@ -1,6 +1,6 @@
 <div align="center" >
   <a href="https://nurkhanmasimzada.site/social">
-     <img src="https://user-images.githubusercontent.com/90649844/172321043-2a0e7ded-6bae-4af3-86f9-17135590911b.png" alt=" My Logo" width="100%" height="auto">
+     <img src="https://github.com/user-attachments/assets/89eb39dd-91bc-4cf4-bf7a-46acbc1d723f" alt=" My Logo" width="100%" height="auto">
   </a>
 
 <div align="start">
@@ -9,28 +9,27 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Repositories](https://github.com/nurxan02?tab=repositories)**
+- 👨‍💻 For go to my Portfolio Page **[Click Here](https://nurkhanmasimzada.site)**
 
 - 📫 How to reach me **nmasimzade@outlook.com**
  
-- 👔 My Linkedin Account : **[Here](https://www.linkedin.com/in/nurxanmasimzade/)**
+- 👔 My Linkedin Account : **[Click Here](https://www.linkedin.com/in/nurxanmasimzade/)**
 
 - 📖 Master : **WSB Akademia - Master of Computer Science**
  
 - 📖 Bachelor  : **AACU (Azerbaijan Architecture and Construction University) - Processes Automation Engineering**
 
-- 📖 Study at [**Code Academy**](http://code.edu.az/)
+- 📖 Coure : [**Code Academy**](http://code.edu.az/)
   
 - 👨‍💻 Specialty : **Software Development**
   
-- 🎨 Hobby: Graphic, 3D & UI/UX **Design**
+- 🎨 Hobby: Graphic, 3D & UI/UX **Design**, Playing Guitar and Pray for Apple products)))
   
 - 🛡️ Tripoling App (StartUp) ***Founder***
 
-<i>I'm currently pursuing **a master's degree in Computer Science in Poland**, deepening my knowledge in the field. Additionally, I work as a **full-stack programming instructor** and an experienced **front-end developer**.
-At Baku IT Academy, I've taught HTML, CSS, JavaScript, C#, ASP.Net Core, and conducted practical sessions with real projects. I also have experience working full-time, collaborating on front-end development at R.I.S.K. Company. My tasks included updating web designs to align with older systems and practicing Agile methodologies. I've independently developed a full-stack project, **[Milana Boutique](https://github.com/nurxan02/MilanaBoutique)**, a clothing sales site. Alongside this, I've contributed to various projects, constantly learning and evolving through these experiences.
-I'm actively seeking **full-time positions** where I can leverage my skills and experiences in programming and front-end development. You can explore my portfolio here, check out my work on **Github, and read my articles on [Medium](https://medium.com/@nurxan02)**.
-I thrive on engaging in new projects and continuously advancing my knowledge. I'm always open to collaboration and new opportunities!</i>
+<i>I'm a passionate Full-Stack Software Developer based in Warsaw, Poland, with expertise in modern web technologies and a strong focus on creating scalable, user-focused systems.
+
+My journey spans across different cultures and technologies, from Baku to Warsaw, working with diverse teams and contributing to innovative projects that with user experience. And yes, I am a big apple and apple OS fan :)</i>
 
 ## 🚀 Languages and Tools:
 
