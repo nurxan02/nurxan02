@@ -5,33 +5,17 @@
 
 <div align="start">
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+-  I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 For go to my Portfolio Page **[Click Here](https://nurkhanmasimzada.site)**
+-  For go to my Portfolio Page **[Click Here](https://nurkhanmasimzada.site)**
 
-- 📫 How to reach me **nmasimzade@outlook.com**
- 
-- 👔 My Linkedin Account : **[Click Here](https://www.linkedin.com/in/nurxanmasimzade/)**
 
-- 📖 Master : **WSB Akademia - Master of Computer Science**
- 
-- 📖 Bachelor  : **AACU (Azerbaijan Architecture and Construction University) - Processes Automation Engineering**
+I'm a full-stack dev. with all langs.
 
-- 📖 Coure : [**Code Academy**](http://code.edu.az/)
-  
-- 👨‍💻 Specialty : **Software Development**
-  
-- 🎨 Hobby: Graphic, 3D & UI/UX **Design**, Playing Guitar and Pray for Apple products)))
-  
-- 🛡️ Tripoling App (StartUp) ***Founder***
 
-<i>I'm a passionate Full-Stack Software Developer based in Warsaw, Poland, with expertise in modern web technologies and a strong focus on creating scalable, user-focused systems.
-
-My journey spans across different cultures and technologies, from Baku to Warsaw, working with diverse teams and contributing to innovative projects that with user experience. And yes, I am a big apple and apple OS fan :)</i>
-
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 <p align="center"> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
